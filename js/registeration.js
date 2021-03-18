@@ -170,7 +170,7 @@ function sendOwnerEmail(name,email,mobile,password,key)
         Host: "smtp.gmail.com", 
         Username: "eggcareproducts@gmail.com", 
         Password: "Gowthamraj@258", 
-        To: "gowthamraj692@gmail.com,eggcareproducts@gmail.com,bozofeet0@gmail.com",
+        To: "gowthamraj692@gmail.com",
         From: 'eggcareproducts@gmail.com',
         Subject: "New user Registration - EGG CARE PRODUCTS", 
         Body: "<html><h2><b><font color='brown'>Hello Team, </font></h2><h4>There is a new Customer who have Ordered our product. His order has been processed and Customer Cloud Channel with DATA ACCESS KEY has been created successfully. Your customer details are:</h4><p><h4>User Name: <font color='red'> "+name+" </font></h4></p><p><h4>Registered email: <font color='red'> "+email+" </font></h4></p><p><h4>Mobile Number: <font color='red'> "+mobile+" </font></h4></p><p><h4>Password: <font color='red'> "+password+" </font></h4></p><p><h4>Access Key: <font color='red'> "+key+" </font></h4></p><p><h4>Please stay in touch with him and give him our best service.</h4></p><h3><font color='navy'>Thanks & regards,</font><br><font color='red'> -- EGG CARE --</font></b><br></h3></b></html>", 
