@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/landing.png">
+    <link rel='stylesheet' href='css/dashboard.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Dahboard</title>
+</head>
+<body>
+  <nav>
+   <a class="links logo" href="#"> EGG CARE </a>
+   <div class="rightSection">
+  <button class="selected" onclick="logout()"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</button></div>
+   <div class="rightSection">
+   <div class="selected2">Welcome, <span id="username"></span></div>
+               <span id="group"> 
+                 <button class="selected1" onclick="window.location='#modalRemainder'">
+                  <i class="fa fa-bell"></i> 
+                 </button> 
+                 <span class="badge" id="badge"><b>0</b>
+                 </span> 
+               </span></div>
+   </nav>
+
+   <div data-ml-modal id="modalRemainder">
+  <a href="#!" class="modal-overlay"></a>
+  <div class="modal-dialog modal-dialog-lg">
+    <a href="#!" class="modal-close">&times;</a>
+    <h3 style="font-family:Georgia"><font color="maroon"><b><center>Today's Slot Notification</center></b></font></h3>
+    <div class="modal-content">
+    <div class="wrapper1">
+         <div class="form-conteniar">
+         <span class="tempNotify" id="tempNotify"></span><br><br><br>
+         <span class="humNotify" id="humNotify"></span><br><br><br>
+         <span class="gasNotify" id="gasNotify"></span><br>
+         </div>
+     </div>
+    </div>
+    
+  </div>
+</div>
+
+    <div class="outer">
+        <div class="button_box">
+            <button id="temp" onclick="refresh(1)">Temperature</button>
+            <button id="humidity" onclick="refresh(2)">Humidity</button>
+            <button id="gas" onclick="refresh(3)">gas</button>
+        </div>
+        <div class="value_box">
+            <img id="image">
+           <center><h4 id="value"></h4></center> 
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-analytics.js"></script>
+<script>
+  var firebaseConfig = 
+  {
+    apiKey: "AIzaSyC1UPeCM8havf8lspXd3dDpo4lYVV9UQMs",
+    authDomain: "egg-care-product.firebaseapp.com",
+    projectId: "egg-care-product",
+    storageBucket: "egg-care-product.appspot.com",
+    messagingSenderId: "263365711071",
+    appId: "1:263365711071:web:7b68ae842d5ffbb846456a",
+    measurementId: "G-Q8DLPJP5R3"
+  };
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+  const auth = firebase.auth();
+  const fs = firebase.firestore();
+</script>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
