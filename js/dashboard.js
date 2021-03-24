@@ -55,7 +55,7 @@ async function getValue(i){
         tempNotify.innerText = "Temperature is less than threshold !!!";
         tempNotify.style.background = "orange";
     }
-    else
+    else if(currTemperature >= 40 && currTemperature <= 97)
     {
         tempNotify.innerText = "Temperature is Normal !!!";
         tempNotify.style.background = "green";
@@ -72,7 +72,7 @@ async function getValue(i){
         humNotify.innerText = "Humidity is less than threshold !!!";
         humNotify.style.background = "orange";
     }
-    else
+    else if(currHumidity >= 40 && currHumidity <= 70)
     {
         humNotify.innerText = "Humidity is Normal !!!";
         humNotify.style.background = "green";
@@ -89,7 +89,7 @@ async function getValue(i){
         gasNotify.innerText = "Gas is less than threshold !!!";
         gasNotify.style.background = "orange";
     }
-    else
+    else if(currGas >= 250 && currGas <= 450)
     {
         gasNotify.innerText = "Gas is Normal !!!";
         gasNotify.style.background = "green";
@@ -99,6 +99,8 @@ async function getValue(i){
 
     if(typeof data.field1 === "undefined"){
         temperature="No-data"
+        tempNotify.innerText = "Please Login to see the slot Data";
+        tempNotify.style.background = "maroon";
     }
     if(typeof data.field2 === "undefined"){
         humidity="No-data"
