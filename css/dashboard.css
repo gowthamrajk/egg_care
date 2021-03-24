@@ -82,6 +82,13 @@ nav
    background-color: #216669;
    padding: 10px;
 }
+.links img{
+  margin-left: -8%;
+  width: 85px;
+  height: 60px;
+  margin-top: -5px;
+  padding-left: 50px
+}
 .links
  {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -89,7 +96,6 @@ nav
    float: left;
    color:white;
    text-align: center;
-   padding: 12px 75px;
    text-decoration: none;
    font-size: 18px;
    line-height: 25px;
