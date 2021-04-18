@@ -5,15 +5,15 @@
 
 # WEBSITE DESIGN
 
-- Splash Screen
+# Splash Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/115151274-c8842800-a089-11eb-88ce-2f7c266476a7.png)
 
-- Landing Page
+# Landing Page
 
 ![image](https://user-images.githubusercontent.com/43011442/115151340-17ca5880-a08a-11eb-850e-0e77790c7a4a.png)
 
-- Home Page
+# Home Page
 
 ![image](https://user-images.githubusercontent.com/43011442/115151369-32043680-a08a-11eb-907e-4151adce436d.png)
 
@@ -31,27 +31,35 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/115151479-ae971500-a08a-11eb-82bf-008d189c5041.png)
 
-- Login Screen
+# Login Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/115151499-c1114e80-a08a-11eb-9b5e-210efa538d9e.png)
 
-- Registration Screen
+# Registration Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/115151517-cd95a700-a08a-11eb-8efa-b982fa8e05e1.png)
 
-- Registration Successful Screen
+# Registration Successful Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/115151561-fe75dc00-a08a-11eb-86a8-f19086f6a772.png)
 
-- Forget Password Screen
+# Confirmation Mail to User
+
+![image](https://user-images.githubusercontent.com/43011442/115153133-0f761b80-a092-11eb-81d6-cd78fc2f8246.png)
+
+# Confirmation Mail to Owner
+
+![image](https://user-images.githubusercontent.com/43011442/115153160-3fbdba00-a092-11eb-8f0f-e7ec6d789c57.png)
+
+# Forget Password Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/115151569-06ce1700-a08b-11eb-949c-e914640e164f.png)
 
-- Error page when no device is installed for that User
+# Error page when no device is installed
 
 ![image](https://user-images.githubusercontent.com/43011442/115153006-59123680-a091-11eb-9203-b97918238d5a.png)
 
-- Main Dashboard
+# Main Dashboard
 
 ![image](https://user-images.githubusercontent.com/43011442/115152894-cec9d280-a090-11eb-92b4-17401a017583.png)
 
@@ -59,10 +67,10 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/115152916-e608c000-a090-11eb-91ea-abc91d4458a0.png)
 
-- Notification
+# Notification
 
 ![image](https://user-images.githubusercontent.com/43011442/115152922-f15beb80-a090-11eb-8002-543933ca2aa0.png)
 
-- Logout Page
+# Logout Page
 
 ![image](https://user-images.githubusercontent.com/43011442/115152932-00429e00-a091-11eb-9dcc-f3881506068c.png)
