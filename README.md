@@ -49,9 +49,20 @@
 
 - Error page when no device is installed for that User
 
+![image](https://user-images.githubusercontent.com/43011442/115153006-59123680-a091-11eb-9203-b97918238d5a.png)
 
 - Main Dashboard
 
+![image](https://user-images.githubusercontent.com/43011442/115152894-cec9d280-a090-11eb-92b4-17401a017583.png)
+
+![image](https://user-images.githubusercontent.com/43011442/115152911-dbe6c180-a090-11eb-8073-87eeea968076.png)
+
+![image](https://user-images.githubusercontent.com/43011442/115152916-e608c000-a090-11eb-91ea-abc91d4458a0.png)
 
 - Notification
 
+![image](https://user-images.githubusercontent.com/43011442/115152922-f15beb80-a090-11eb-8002-543933ca2aa0.png)
+
+- Logout Page
+
+![image](https://user-images.githubusercontent.com/43011442/115152932-00429e00-a091-11eb-9dcc-f3881506068c.png)
