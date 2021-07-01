@@ -3,6 +3,10 @@
 - It is a product for poultry industries. 
 - A smart fit for poltry incubators/hatcheries which can make them automated completly, eliminating the labour cost, wastage of eggs, manual erros and increase productivity for every slot of incubation.
 
+# Hardware Images
+
+
+
 # WEBSITE DEMO
 
 To have a Demo of my Website, Please visit https://gowthamrajk.github.io/egg_care
