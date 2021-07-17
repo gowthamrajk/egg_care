@@ -138,4 +138,5 @@ To have a Demo of my Website, Please visit https://gowthamrajk.github.io/egg_car
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Fullstack+Web+Developer&color=0b3d36&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=UI+Designer&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Learning+new+things&color=0c0c4f&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Design+Thinker&color=0b3d17&label=) 
 
+### Connect with me 👋:
 
