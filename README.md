@@ -1,4 +1,4 @@
-# EGGCARE
+# EGGCARE ❤️ 
 
 ![](https://img.shields.io/github/languages/count/gowthamrajk/egg_care)   ![](https://img.shields.io/github/languages/top/gowthamrajk/egg_care)
 
