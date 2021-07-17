@@ -25,6 +25,10 @@ To have a Demo of my Website, Please visit https://gowthamrajk.github.io/egg_car
 
 ## Front End 📫
 
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+
+
+
 # UI VIEW
 
 # Splash Screen
