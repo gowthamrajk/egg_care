@@ -23,6 +23,8 @@ To have a Demo of my Website, Please visit https://gowthamrajk.github.io/egg_car
 
 # TECHNOLOGIES USED 📌
 
+## Front End 📫
+
 # UI VIEW
 
 # Splash Screen
