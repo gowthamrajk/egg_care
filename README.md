@@ -21,6 +21,8 @@
 
 To have a Demo of my Website, Please visit https://gowthamrajk.github.io/egg_care
 
+# TECHNOLOGIES USED 📌
+
 # UI VIEW
 
 # Splash Screen
